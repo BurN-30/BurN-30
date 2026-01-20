@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  # Se lance automatiquement tous les jours à minuit
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permet de le lancer manuellement (pour tester tout de suite)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        # C'est l'action que tu as trouvée
+        uses: Zqzqsb/MultiSourcesSnake@v1.1
+        with:
+          # Ton pseudo GitHub
+          github_user_name: BurN-30
+          # On garde juste le snake.svg classique
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to the output branch
+        # Cette étape envoie l'image créée sur une branche "cachée" nommée 'output'
+        # pour ne pas polluer tes fichiers principaux.
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
