@@ -1,0 +1,44 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Tous les jours à minuit
+  workflow_dispatch: # Permet de lancer manuellement
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # 1. Générer la carte des stats globales
+      - name: Generate General Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: "stats"
+          path: "generated/stats.svg" # Le fichier sera créé ici
+          # J'ai repris vos options exactes : tokyonight, sans bordure, fond custom
+          options: "username=BurN-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+
+      # 2. Générer la carte des langages
+      - name: Generate Top Langs
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: "top-langs"
+          path: "generated/langs.svg"
+          options: "username=BurN-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+
+      # 3. Sauvegarder les images dans le dépôt
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          # On ne commit que s'il y a des changements pour éviter les erreurs
+          git diff --staged --quiet || git commit -m "Update stats images"
+          git push
