@@ -95,11 +95,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurN-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/BurN-30">
+    <img height="180" src="./generated/stats.svg" alt="Stats Globales" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurN-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  
+  <a href="https://github.com/BurN-30">
+    <img height="180" src="./generated/langs.svg" alt="Langages Favoris" />
   </a>
 </div>
 
