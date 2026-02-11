@@ -76,7 +76,7 @@
 | Year | Role & Context | Key Skills Developed |
 | :--- | :--- | :--- |
 | **2025 - 2026**<br>*(LP3 Studies)* | **Advanced Fullstack Engineering**<br>Building production-grade architectures : custom frameworks, Design Patterns, Symfony mastery & MEAN stack. | `PHP 8 OOP` `Design Patterns` `Symfony Advanced` `MEAN Stack` `Agile/Scrum` `Security` |
-| **2025**<br>*(Internship)* | **AI & Industrial Data @ Prosyst**<br>Optimized massive datasets (+15M rows) for predictive maintenance pipelines. | `Big Data` `SQL Optimization` `AI/ML` `Data Processing` |
+| **2025**<br>*(Internship)* | **AI & Industrial Data @ Prosyst**<br>Optimized massive datasets for predictive maintenance pipelines. | `Big Data` `SQL Optimization` `AI/ML` `Data Processing` |
 | **2024 - 2025**<br>*(LP2 Studies)* | **Dynamic Web & DevOps Foundations**<br>Transitioned from static to dynamic : PHP/MySQL, JS libraries, server administration & CI/CD basics. | `PHP` `MySQL` `JavaScript` `Server Admin` `Web Security` `Project Management` |
 | **2023 - 2024**<br>*(LP1 Studies)* | **Web Fundamentals**<br>Algorithmic thinking, CMS ecosystems (WordPress), databases introduction & frontend basics. | `Algorithms` `SQL Basics` `WordPress` `JavaScript Intro` `UX Fundamentals` |
 
