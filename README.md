@@ -11,7 +11,6 @@
   <br/><br/>
 
   <p align="center">
-    🎓 <strong>Licence Pro. Métiers de l'Internet - Application Web (3rd Year)</strong>.<br>
     I craft <strong>Backend architectures</strong> (<strong>PHP / Symfony</strong>) with a solid Frontend touch, bridging logic and UX.<br>
     🛠️ <strong>Maker at heart :</strong> Deep into PC hardware for years, running a self-hosted <strong>HomeLab</strong>, automating workflows with Python.<br>
     🔍 <strong>Curious by nature</strong> — from scripting bots to encoding videos, I tinker with anything that involves code or creative workflows.<br>
