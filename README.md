@@ -70,16 +70,6 @@
 
 <br/>
 
-### Philosophy
-
-> **"If it can be automated, it should be. If it can be optimized, it will be."**  
-> *— My approach to code*
-
-> **"Music is the answer to problems that can't be solved."**  
-> *— My approach to life (Electro & 80s vibes 🎧)*
-
-<br/>
-
 ### GitHub Stats
 
 <div align="center">
