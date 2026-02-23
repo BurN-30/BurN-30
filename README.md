@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+<br/>
+
 **Frontend Ecosystem**
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -50,6 +52,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
+<br/>
+
 **HomeLab & Automation**
 *Where I merge Dev, SysAdmin & Hardware tinkering*
 <div align="left">
@@ -59,6 +63,8 @@
   <img src="https://img.shields.io/badge/Scripting-Bots%20%7C%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Network-HTTPS%20%7C%20VPN%20%7C%20LAN-00ADD8?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
+
+<br/>
 
 **Creative Tech & Side Projects**
 *Where curiosity meets code — I explore everything from game bots to media workflows*
