@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Nathan;Fullstack+Dev;Automation+%26+Scripting;PC+Building+%26+Hardware+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Nathan;Fullstack+Dev;Automation+%26+Scripting;PC+Building+%26+Hardware+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -92,4 +92,29 @@
 
 <div align="center">
   <img src="https://github.com/BurN-30/BurN-30/raw/output/snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/BurN-30/dashboard-ratio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=dashboard-ratio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/BurN-30/LOA-Server-Status">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=LOA-Server-Status&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/BurN-30/dpln-dark-mode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=dpln-dark-mode&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/BurN-30/plex-watchlist-sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=plex-watchlist-sync&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BurN-30&style=for-the-badge&color=777BB4" alt="Profile Views" />
 </div>
