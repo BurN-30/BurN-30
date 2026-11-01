@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="185" viewBox="0 0 400 185">
+<style>.h{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}.l{font:400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}.v{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#bf91f3}</style>
+<rect width="400" height="185" rx="10" fill="#0d1117"/>
+<text x="25" y="32" class="h">At a glance</text>
+<text x="25" y="62" class="l">Public repositories</text><text x="375" y="62" class="v" text-anchor="end">9</text><text x="25" y="89" class="l">Side projects updated in 2026</text><text x="375" y="89" class="v" text-anchor="end">5</text><text x="25" y="116" class="l">Projects with a release</text><text x="375" y="116" class="v" text-anchor="end">3</text><text x="25" y="143" class="l">Languages in public code</text><text x="375" y="143" class="v" text-anchor="end">3</text><text x="25" y="170" class="l">Last public push</text><text x="375" y="170" class="v" text-anchor="end">today</text>
+</svg>

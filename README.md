@@ -84,57 +84,33 @@
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### Side projects, built for fun
 
-#### 🔨 Recently building
-<!-- building:start -->
-- **[scribouille](https://github.com/BurN-30/scribouille)**: Transcription de réunions 100 % locale (faster-whisper), application de bureau Windows <sub>(updated 24 days ago)</sub>
-- **[plex-voix-claires](https://github.com/BurN-30/plex-voix-claires)**: Voix plus claires et volume homogène pour Plex sur ordinateur (Windows, Mac) et Plex HTPC : un mpv.conf prêt à l'emploi <sub>(updated 24 days ago)</sub>
-- **[dpln-dark-mode](https://github.com/BurN-30/dpln-dark-mode)**: Thème sombre pour Dofus pour les Noobs <sub>(updated 4 months ago)</sub>
-- **[memo-price-dofus-retro](https://github.com/BurN-30/memo-price-dofus-retro)**: Mémo de prix HDV pour Dofus Retro avec OCR via NVIDIA NIM. Local-first, dossiers de farm, calcul de coût de craft. <sub>(updated 5 months ago)</sub>
-<!-- building:end -->
+<sub>Small tools I made for myself and my friends. The serious work lives in private company repositories.</sub>
 
-</td>
-<td valign="top" width="50%">
+<!-- projects:start -->
+<p align="center">
+  <a href="https://github.com/BurN-30/scribouille"><img src="./generated/repo-scribouille.svg" width="49%" alt="scribouille" /></a>
+  <a href="https://github.com/BurN-30/plex-voix-claires"><img src="./generated/repo-plex-voix-claires.svg" width="49%" alt="plex-voix-claires" /></a>
+  <a href="https://github.com/BurN-30/dpln-dark-mode"><img src="./generated/repo-dpln-dark-mode.svg" width="49%" alt="dpln-dark-mode" /></a>
+  <a href="https://github.com/BurN-30/memo-price-dofus-retro"><img src="./generated/repo-memo-price-dofus-retro.svg" width="49%" alt="memo-price-dofus-retro" /></a>
+</p>
+<!-- projects:end -->
 
-#### 📦 Latest releases
 <!-- releases:start -->
-- [scribouille v2.3.3](https://github.com/BurN-30/scribouille/releases/tag/v2.3.3) <sub>(2 months ago)</sub>
-- [dpln-dark-mode v16.4](https://github.com/BurN-30/dpln-dark-mode/releases/tag/v16.4) <sub>(8 months ago)</sub>
-- [LOA-Server-Status v1.0.0](https://github.com/BurN-30/LOA-Server-Status/releases/tag/v1.0.0) <sub>(13 months ago)</sub>
+<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.3.3">scribouille v2.3.3</a> · <a href="https://github.com/BurN-30/dpln-dark-mode/releases/tag/v16.4">dpln-dark-mode v16.4</a> · <a href="https://github.com/BurN-30/LOA-Server-Status/releases/tag/v1.0.0">LOA-Server-Status v1.0.0</a></sub></p>
 <!-- releases:end -->
-
-</td>
-</tr>
-</table>
-
-<sub>These two lists update themselves every day through a GitHub Action.</sub>
-
-<br/>
-
-<div align="center">
-  <img src="https://hub.nathansaccol.fr/card/last-played.svg" alt="Last played on YouTube Music" />
-  <br/>
-  <sub>Served live from my homelab.</sub>
-</div>
 
 <br/>
 
 ### GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/BurN-30">
-    <img height="180" src="./generated/stats.svg" alt="Stats Globales" />
-  </a>
-  
-  <a href="https://github.com/BurN-30">
-    <img height="180" src="./generated/langs.svg" alt="Langages Favoris" />
-  </a>
-</div>
+<p align="center">
+  <img src="./generated/overview.svg" height="185" alt="At a glance" />
+  <img src="./generated/langs.svg" height="185" alt="Most used languages" />
+</p>
 
-<br/>
+<p align="center"><sub>Project cards, releases and stats are rebuilt every day by a GitHub Action.</sub></p>
 
 <div align="center">
   <img src="https://github.com/BurN-30/BurN-30/raw/output/snake-dark.svg" alt="Snake animation" />
@@ -142,23 +118,10 @@
 
 <br/>
 
-### Side projects, built for fun
-
-<sub>Small tools I made for myself and my friends. The serious work lives in private company repositories.</sub>
-
 <div align="center">
-  <a href="https://github.com/BurN-30/scribouille">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=scribouille&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/BurN-30/plex-voix-claires">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=plex-voix-claires&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/BurN-30/LOA-Server-Status">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=LOA-Server-Status&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/BurN-30/dpln-dark-mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurN-30&repo=dpln-dark-mode&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img src="https://hub.nathansaccol.fr/card/last-played.svg" alt="Last played on YouTube Music" />
+  <br/>
+  <sub>Served live from my homelab.</sub>
 </div>
 
 <br/>
