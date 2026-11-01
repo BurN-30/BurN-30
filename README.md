@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Nathan;Business+Apps+Developer;Laravel+%26+Livewire;Automation+%26+HomeLab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=540&lines=Hi+There!+I'm+Nathan;I+build+internal+business+apps;Goodbye+messy+spreadsheets;Laravel+%26+Livewire;AI+%26+Software+Engineering+student" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -11,9 +11,11 @@
   <br/><br/>
 
   <p align="center">
-    I build <strong>business applications</strong> end to end (<strong>Laravel / Livewire</strong>): from scoping with the people who use them to deployment, CI/CD and day-to-day maintenance.<br>
+    I build <strong>internal business applications</strong> that make people's work simpler: replacing scattered Excel files and old habits with tools that are <strong>ergonomic, fast and designed around the people who use them</strong>.<br>
+    💼 End to end with <strong>Laravel / Livewire</strong>: scoping with the users, design, development, CI/CD, deployment and day-to-day support.<br>
+    🎓 Work-study <strong>software &amp; AI engineering</strong> student, soon building a <strong>RAG</strong> on an in-house AI server.<br>
     🛠️ <strong>HomeLab &amp; automation:</strong> self-hosted services on Linux and Docker, media stack, dashboards, and Python tools that remove repetitive work.<br>
-    🔍 <strong>Curious by nature:</strong> from scripting bots to encoding videos, I tinker with anything that involves code or creative workflows.<br>
+    🎮 <strong>Curious by nature:</strong> gamer, bots, scrapers, video encoding… anything that involves code or creative workflows.<br>
     🌍 <strong>French</strong> (native), <strong>English</strong> (B2), <strong>Spanish</strong> (B2). Code speaks louder anyway.
   </p>
 
@@ -132,7 +134,9 @@
 
 <br/>
 
-### Featured Projects
+### Side projects, built for fun
+
+<sub>Small tools I made for myself and my friends. The serious work lives in private company repositories.</sub>
 
 <div align="center">
   <a href="https://github.com/BurN-30/scribouille">
