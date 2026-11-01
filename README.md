@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=540&lines=Hi+There!+I'm+Nathan;I+build+internal+business+apps;Goodbye+messy+spreadsheets;Laravel+%26+Livewire;AI+%26+Software+Engineering+student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=540&lines=Hi+There!+I'm+Nathan;I+build+internal+business+apps;Making+everyday+work+simpler;Laravel+%26+Livewire;AI+%26+Software+Engineering+student" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -11,7 +11,7 @@
   <br/><br/>
 
   <p align="center">
-    I build <strong>internal business applications</strong> that make people's work simpler: replacing scattered Excel files and old habits with tools that are <strong>ergonomic, fast and designed around the people who use them</strong>.<br>
+    I build <strong>internal business applications</strong> that make people's work simpler: replacing makeshift tools and manual processes with applications that are <strong>ergonomic, fast and designed around the people who use them</strong>.<br>
     💼 End to end with <strong>Laravel / Livewire</strong>: scoping with the users, design, development, CI/CD, deployment and day-to-day support.<br>
     🎓 Work-study <strong>software &amp; AI engineering</strong> student, soon building a <strong>RAG</strong> on an in-house AI server.<br>
     🛠️ <strong>HomeLab &amp; automation:</strong> self-hosted services on Linux and Docker, media stack, dashboards, and Python tools that remove repetitive work.<br>
