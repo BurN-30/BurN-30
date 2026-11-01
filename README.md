@@ -114,6 +114,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://hub.nathansaccol.fr/card/last-played.svg" alt="Last played on YouTube Music" />
+  <br/>
+  <sub>Served live from my homelab.</sub>
+</div>
+
+<br/>
+
 ### GitHub Stats
 
 <div align="center">
