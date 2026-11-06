@@ -2,7 +2,7 @@
 <style>.t{font:600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}.d{font:400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}.m{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#787c99}</style>
 <rect width="400" height="120" rx="10" fill="#0d1117"/>
 <svg x="25" y="20" width="16" height="16" viewBox="0 0 16 16"><path fill="#bf91f3" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z"/></svg>
-<text x="48" y="33" class="t">memo-price-dofus-retro</text>
-<text x="25" y="58" class="d"><tspan x="25" dy="0">Mémo de prix HDV pour Dofus Retro avec OCR via</tspan><tspan x="25" dy="18">NVIDIA NIM. Local-first, dossiers de farm, calcul d…</tspan></text>
-<circle cx="31" cy="96" r="6" fill="#f1e05a"/><text x="42" y="100" class="m">JavaScript</text><text x="375" y="100" class="m" text-anchor="end">updated 5 months ago</text>
+<text x="48" y="33" class="t">wow-forever-guide</text>
+<text x="25" y="58" class="d"><tspan x="25" dy="0">Guides de leveling WoW Forever pour un groupe</tspan><tspan x="25" dy="18">Alliance (paquet Polestar), liens Wowhead FR/EN,…</tspan></text>
+<circle cx="31" cy="96" r="6" fill="#000080"/><text x="42" y="100" class="m">Lua</text><text x="375" y="100" class="m" text-anchor="end">updated today</text>
 </svg>

@@ -90,15 +90,15 @@
 
 <!-- projects:start -->
 <p align="center">
+  <a href="https://github.com/BurN-30/wow-forever-guide"><img src="./generated/repo-wow-forever-guide.svg" width="49%" alt="wow-forever-guide" /></a>
+  <a href="https://github.com/BurN-30/tab-volume-clean"><img src="./generated/repo-tab-volume-clean.svg" width="49%" alt="tab-volume-clean" /></a>
   <a href="https://github.com/BurN-30/plex-voix-claires"><img src="./generated/repo-plex-voix-claires.svg" width="49%" alt="plex-voix-claires" /></a>
   <a href="https://github.com/BurN-30/scribouille"><img src="./generated/repo-scribouille.svg" width="49%" alt="scribouille" /></a>
-  <a href="https://github.com/BurN-30/dpln-dark-mode"><img src="./generated/repo-dpln-dark-mode.svg" width="49%" alt="dpln-dark-mode" /></a>
-  <a href="https://github.com/BurN-30/memo-price-dofus-retro"><img src="./generated/repo-memo-price-dofus-retro.svg" width="49%" alt="memo-price-dofus-retro" /></a>
 </p>
 <!-- projects:end -->
 
 <!-- releases:start -->
-<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.3.3">scribouille v2.3.3</a> · <a href="https://github.com/BurN-30/dpln-dark-mode/releases/tag/v16.4">dpln-dark-mode v16.4</a> · <a href="https://github.com/BurN-30/LOA-Server-Status/releases/tag/v1.0.0">LOA-Server-Status v1.0.0</a></sub></p>
+<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/tab-volume-clean/releases/tag/v1.1.1">tab-volume-clean v1.1.1</a> · <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.3.3">scribouille v2.3.3</a> · <a href="https://github.com/BurN-30/dpln-dark-mode/releases/tag/v16.4">dpln-dark-mode v16.4</a></sub></p>
 <!-- releases:end -->
 
 <br/>
