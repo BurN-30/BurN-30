@@ -98,7 +98,7 @@
 <!-- projects:end -->
 
 <!-- releases:start -->
-<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/tab-volume-clean/releases/tag/v1.2.0">tab-volume-clean v1.2.0</a> · <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.3.3">scribouille v2.3.3</a> · <a href="https://github.com/BurN-30/dpln-dark-mode/releases/tag/v16.4">dpln-dark-mode v16.4</a></sub></p>
+<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/wow-forever-guide/releases/tag/v0.7.4">wow-forever-guide v0.7.4</a> · <a href="https://github.com/BurN-30/tab-volume-clean/releases/tag/v1.2.0">tab-volume-clean v1.2.0</a> · <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.3.3">scribouille v2.3.3</a></sub></p>
 <!-- releases:end -->
 
 <br/>
