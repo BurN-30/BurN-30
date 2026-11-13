@@ -90,15 +90,15 @@
 
 <!-- projects:start -->
 <p align="center">
-  <a href="https://github.com/BurN-30/scribouille"><img src="./generated/repo-scribouille.svg" width="49%" alt="scribouille" /></a>
   <a href="https://github.com/BurN-30/wow-forever-guide"><img src="./generated/repo-wow-forever-guide.svg" width="49%" alt="wow-forever-guide" /></a>
+  <a href="https://github.com/BurN-30/scribouille"><img src="./generated/repo-scribouille.svg" width="49%" alt="scribouille" /></a>
   <a href="https://github.com/BurN-30/tab-volume-clean"><img src="./generated/repo-tab-volume-clean.svg" width="49%" alt="tab-volume-clean" /></a>
   <a href="https://github.com/BurN-30/plex-voix-claires"><img src="./generated/repo-plex-voix-claires.svg" width="49%" alt="plex-voix-claires" /></a>
 </p>
 <!-- projects:end -->
 
 <!-- releases:start -->
-<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/wow-forever-guide/releases/tag/v0.9.9">wow-forever-guide v0.9.9</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.4.0">scribouille v2.4.0</a> · <a href="https://github.com/BurN-30/tab-volume-clean/releases/tag/v1.3.0">tab-volume-clean v1.3.0</a> · <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a></sub></p>
+<p align="center"><sub>📦 Latest releases: <a href="https://github.com/BurN-30/wow-forever-guide/releases/tag/v0.11.0">wow-forever-guide v0.11.0</a> · <a href="https://github.com/BurN-30/scribouille/releases/tag/v2.4.0">scribouille v2.4.0</a> · <a href="https://github.com/BurN-30/tab-volume-clean/releases/tag/v1.3.0">tab-volume-clean v1.3.0</a> · <a href="https://github.com/BurN-30/plex-voix-claires/releases/tag/derniere-version">plex-voix-claires derniere-version</a></sub></p>
 <!-- releases:end -->
 
 <br/>
