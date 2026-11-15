@@ -90,8 +90,8 @@
 
 <!-- projects:start -->
 <p align="center">
-  <a href="https://github.com/BurN-30/wow-forever-guide"><img src="./generated/repo-wow-forever-guide.svg" width="49%" alt="wow-forever-guide" /></a>
   <a href="https://github.com/BurN-30/scribouille"><img src="./generated/repo-scribouille.svg" width="49%" alt="scribouille" /></a>
+  <a href="https://github.com/BurN-30/wow-forever-guide"><img src="./generated/repo-wow-forever-guide.svg" width="49%" alt="wow-forever-guide" /></a>
   <a href="https://github.com/BurN-30/tab-volume-clean"><img src="./generated/repo-tab-volume-clean.svg" width="49%" alt="tab-volume-clean" /></a>
   <a href="https://github.com/BurN-30/plex-voix-claires"><img src="./generated/repo-plex-voix-claires.svg" width="49%" alt="plex-voix-claires" /></a>
 </p>
